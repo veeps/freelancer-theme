@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: Vivian Peng
-  location: New York NY
+  location: Location
   social: Around the Web
   credits: Thank You
 
@@ -42,7 +42,7 @@ social:
     url: http://twitter.com/create_self
   - title: instagram
     url: http://instagram.com/create_self
-  - title: vimeo
+  - title: Vimeo
     url: https://vimeo.com/createself
 
 # Postal address (add as many lines as necessary)
