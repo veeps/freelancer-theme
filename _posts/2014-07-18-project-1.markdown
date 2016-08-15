@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 1
-date: 2014-07-17
-img: day1.jpg
-alt: image-alt
-description: Day 1: Concrete Jungle
-
----
