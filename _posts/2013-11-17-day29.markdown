@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 29
+date: 2013-10-21
+img: day29.png
+alt: 100 NY Moments
+client: Day 29 - my boys
+description: Day 29 - my boys<p>We tell boys that men don't cry, and when they cry, we teach them to not tell a soul. So what pain did this old man endure to have cried for so long, and to tell a complete stranger just minutes after we met?</p><p>It was his son getting deployed to Iraq. This man, who speaks with so much pride, "my country" (Santa Domingo), "my language" (Spanish), "my boys" (his life), couldn't stomach not knowing where his son was, if he was safe, and when he would come home - if alive?</p><p>Talking about this today is our fortune for having his son return home safely. I said, "thank you for his service," words that felt so foreign in my mouth. It was a courtesy I noticed others use, but I had never felt the desire to say them myself. I guess It was the first time that I encountered so intimately the heartbreak of military families and was overwhelmed with emotion. I'm grateful for this timely life lesson, right on memorial weekend, to discover my capacity for empathy can & must be expanded. Thank you to the men & women who provide for our country.</p>
+
+---

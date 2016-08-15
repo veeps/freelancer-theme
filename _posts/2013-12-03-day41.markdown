@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 41
+date: 2013-10-21
+img: day41.png
+alt: 100 NY Moments
+client: Day 41 - water cup
+description: Day 41 - water cup<p>My last story on Fidel & Michelle caught my attention with all the balloons and the crowd they attracted. This story caught my attention with the little cup of water. It's a simple gesture, but there's something so sweet about it all. It's intentional, every move, from getting the water to meeting the man at eye level to speaking with him, every move was consciously made and embedded in kindness. It's pretty cool working for a humanitarian organization where it feels like everyone I work with talks the talk and walks the walk.</p>
+---

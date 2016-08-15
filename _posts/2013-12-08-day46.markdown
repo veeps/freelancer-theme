@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 46
+date: 2013-10-21
+img: day46.png
+alt: 100 NY Moments
+client: Day 46 - one love
+description: Day 46 - one love<p>I don't remember the last verse.. But it was something cute that ended with "unite!" I gotta say, this was super sweet to see - a gathering of white senior citizens saying all the right things. At a time where we can't avoid the hateful rhetoric broadcasted in media, this felt like a big grandpa/grandma hug saying "it's going to be ok."</p>
+---

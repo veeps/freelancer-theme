@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 20
+date: 2013-10-21
+img: day20.png
+alt: 100 NY Moments
+client: Day 20 - kindness of strangers
+description: Day 20 - kindness of strangers
+
+---

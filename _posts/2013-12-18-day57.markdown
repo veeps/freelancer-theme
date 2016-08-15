@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 57
+date: 2013-10-21
+img: day57.png
+alt: 100 NY Moments
+client: Day 57 - smell the roses
+description: Day 57 - smell the roses<p>So this didn't technically happen in NY.. but we flew from NY. I didn't get a chance to meet him, or see what he looks like, and our lives were literally in his hands for almost 6 hours. But how sweet it was to be in his presence, someone who appreciates these moments and invites you to enjoy too. </p>
+---

@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2013-10-21
 img: day1.png
-alt: image-alt
+alt: 100 NY Moments
 client: Day 1 - concrete jungle
 description: Day 1 - concrete jungle
 

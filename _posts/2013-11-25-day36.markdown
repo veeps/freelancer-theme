@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 36
+date: 2013-10-21
+img: day36.png
+alt: 100 NY Moments
+client: Day 36 - mad dash
+description: Day 36 - mad dash<p>If she was leaving this city for good, then let this be a sweet reminder of the kindness that hangs out here. If she is newly moving in, then let this be the New York way of saying, "welcome home." Thanks @bripositive for the magic</p>
+---

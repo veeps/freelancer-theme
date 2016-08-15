@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 6
+date: 2013-10-21
+img: day6.png
+alt: 100 NY Moments
+client: Day 6 - group effort
+description: Day 6 - group effort
+
+---

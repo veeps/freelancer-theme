@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 35
+date: 2013-10-21
+img: day35.png
+alt: 100 NY Moments
+client: Day 35 - personal guide
+description: Day 35 - personal guide<p>Sometimes train conductors are simply delightful. Every moment is filled with the opportunity to make someone's day. This 1 train conductor made at least 2 passengers' days that morning - mine and the faceless passenger's.</p>
+---

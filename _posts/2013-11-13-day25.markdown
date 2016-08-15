@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 25
+date: 2013-10-21
+img: day25.png
+alt: 100 NY Moments
+client: Day 25 - move in day
+description: Day 25 - move in day<p>This was probably the moment I fell in love with Washington heights.</p>
+
+---

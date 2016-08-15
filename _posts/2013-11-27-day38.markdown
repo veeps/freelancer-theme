@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 38
+date: 2013-10-21
+img: day38.gif
+alt: 100 NY Moments
+client: Day 38 - purge the hate
+description: Day 38 - purge the hate<p>Walk down 28th st between 6th and 7th right now, and you'll be corralled through a makeshift construction site hallway. When I walked by last week, this sign was vandalized with hateful phrases making nonsensical claims on immigration and labor. I knew the claims had no rationale, but it stung to see it in a public space, with the handwriting screaming so loudly the words gnaw at your conscience. I made a note to myself to come back prepared next time, have a sharpie in hand to scratch out the words. Yesterday I walked by and the sign was already washed clean, the only remnants of the hate lingering in a smudged stain. Whether it was a construction crew member or a random stranger who did it, thank you for purging the hate to make room for kindness.</p>
+---

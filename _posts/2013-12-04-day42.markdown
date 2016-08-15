@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 42
+date: 2013-10-21
+img: day42.png
+alt: 100 NY Moments
+client: Day 42 - unabashed condolences
+description: Day 42 - unabashed condolences<p>When I leave the office each night, the front desk doorman of our building usually gives me a hug good night. Yesterday, he held my hand and said, "My friend, I'm sorry for what happened." If he had asked me how my day was, I would have smiled and said "good, how was yours?" But without me telling him and without him asking, he managed to show empathy in a remarkable way. No shyness or dancing around with words, just saying it directly is powerful.</p><p>I'm upset over the lives we lost in the U.S. bombing of our Doctors Without Borders (MSF) hospital in Kunduz. I didn't know anyone personally, and the doorman doesn't work with MSF, but we grieve for the deaths of our colleagues, our patients and we are infuriated over the gross violation of humanitarian law.</p>
+---

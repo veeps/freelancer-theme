@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 33
+date: 2013-10-21
+img: day33.png
+alt: 100 NY Moments
+client: Day 33 - thanks for your service
+description: Day 33 - thanks for your service<p>Happy July 4th! Remember to thank our troops. Bank of America is donating $1 to Wounded Warriors for every photo/video submitted to troopthanks</p>
+---

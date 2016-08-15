@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 32
+date: 2013-10-21
+img: day32.png
+alt: 100 NY Moments
+client: Day 32 - all love
+description: Day 32 - all love<p>When she approached us, a black woman to a group of Asian kids, all I could do was hold her hand and say, "I love you, too." How absurd... strangers unabashedly declaring love because of the hurt and anger we feel together.</p><p>I'm not black nor Christian, but I'm American and it hurts. It hurts that in the house of God, in your sanctuary, your place of refuge... We failed you. As a nation, we failed to respect your lives.</p><p>This tragedy has been a huge mind fuck and I don't know what to do. "It is not enough to be compassionate; we must act." - His Holiness the @DalaiLama What can we do?</p>
+---

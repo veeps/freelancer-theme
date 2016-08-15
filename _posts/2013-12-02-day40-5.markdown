@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 40-5
+date: 2013-10-21
+img: day40_5.png
+alt: 100 NY Moments
+client: Day 40 - happy birthday [5/5]
+description: Day 40 - happy birthday [5/5]<p>Sometimes having a stranger see you through the lens in which you wish and deserve to be seen is the most transformative power to receive.</p>
+---

@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 17
+date: 2013-10-21
+img: day17.png
+alt: 100 NY Moments
+client: Day 17 - doctor's call
+description: Day 17 - doctor's call
+
+---

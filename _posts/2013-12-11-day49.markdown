@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 49
+date: 2013-10-21
+img: day49.png
+alt: 100 NY Moments
+client: Day 49 - hidden friendships
+description: Day 49 - hidden friendships<p>Living in New York, we get used to not having any "personal space," and while we're usually pretty good at keeping it together, sometimes we're just having a rough day. In those moments, it feels pretty damn good that New Yorkers generally don't give a damn, but sometimes they may also show some love. Thanks @donilee for this beautiful story! From her post, "When I looked at you to thank you, I was overwhelmed with gratitude. Your face said so many things. That we all have had a moment where we needed to cry & we just happened to be in the subway."</p>
+---

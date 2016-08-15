@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 53
+date: 2013-10-21
+img: day53.png
+alt: 100 NY Moments
+client: Day 53 - flipped script 
+description: Day 53 - flipped script<p>If I could hold my heart in my hands, then I swear it would have melted into a sloppy goo, leaving my fingers sticky from trying to hold it all together. Nurses, man, so damn intuitive. It's like they have a secret access key to tap into our needs. I couldn't share too much in the bright lights and surrounding crowd, so he gave me one of those strong nurse hugs that leave you feeling like the world's gonna be ok. Nurses, man, the best.</p>
+---

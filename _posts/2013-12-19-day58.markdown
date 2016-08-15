@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 58
+date: 2013-10-21
+img: day58.png
+alt: 100 NY Moments
+client: Day 58 - butterfly effect
+description: Day 58 - butterfly effect<p>I love this story because (1) we see this balancing act so often that most NYers wouldn't offer to help.. We'd be like "she got this!" (2) the gesture , so simple... without any words exchanged most of us wouldn't notice and (3) because of that small gesture and because my friend noticed & told me this story, it's now made at least 3 people happy and hopefully some of you too. All of our movements, big and small, have potential to make someone's day. </p>
+---

@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 54
+date: 2013-10-21
+img: day54.png
+alt: 100 NY Moments
+client: Day 54 - takes a village
+description: Lately, it's been harder to find stories on kindness - probably a reflection of how I feel inside... Sometimes it's just too much to stomach all the hate, violence, and injustice in this world. But today's a new day and we'll try anew to restore faith in humanity.<p>Day 54 - takes a village</p><p>How incredible to see someone be so generous with his time, especially on his commute to work. He really gets it, this whole "it takes a village to raise a kid" thing.</p>
+---

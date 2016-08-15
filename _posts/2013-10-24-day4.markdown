@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 4
+date: 2013-10-21
+img: day4.png
+alt: 100 NY Moments
+client: Day 4 - unofficial bus stop
+description: Day 4 - unofficial bus stop
+
+---

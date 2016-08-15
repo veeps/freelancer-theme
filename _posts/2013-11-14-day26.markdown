@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 26
+date: 2013-10-21
+img: day26.png
+alt: 100 NY Moments
+client: Day 26 - smart kids
+description: Day 26 - smart kids<p>In a cab ride on the way to JFK, I exchanged life stories with the driver and he said this as I was getting out of the car. It was probably the most heartbreaking thing ever said to me. It's less a compliment and more a narrative of the unequal opportunities in our world. I am eternally grateful to my parents for creating opportunities for me. Let's transform the systems in play to make this easier for other families too.</p>
+
+---

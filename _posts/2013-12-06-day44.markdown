@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 44
+date: 2013-10-21
+img: day44.gif
+alt: 100 NY Moments
+client: Day 44 - wake up
+description: Day 44 - wake up<p>A glimpse of a conversation I overheard between a mother and her young teenage son after watching the movie chiraq. It broke my heart seeing this reality unfold in a family. I can't begin to imagine what it feels like to say these words to her son. The movie was OK, but this moment outside the theater is unforgettable. What's it going to take to change our reality? A story on struggle</p>
+---

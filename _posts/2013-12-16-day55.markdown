@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 55
+date: 2013-10-21
+img: day55.png
+alt: 100 NY Moments
+client: Day 55 - rain or shine
+description: Day 55 - rain or shine<p>Because no matter how shitty it felt to bike through the cold & windy rain, it must have been 1000x more miserable to stand out there. Thank you for being there for us </p>
+---

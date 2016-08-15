@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 43
+date: 2013-10-21
+img: day43.png
+alt: 100 NY Moments
+client: Day 43 - natural neighbors
+description: Day 43 - natural neighbors<p>Walking on the "outside" of the street to keep me safe is something my grandpa has always done for me since I can remember, and he still does it to this day even if I should probably be the one protecting him now. It's so innate to our relationship that I didn't think it was anything noteworthy until my neighbor did it to me. Maybe it's a natural thing that parents/family do for each other, but certainly not for neighbors whose conversations with each other have never lasted longer than 2 min in the 3 years of sharing a hallway. But when he stepped to my left, it felt the same way as when my grandpa does it - completely natural. It's hard to feel alone in this city when neighbors and strangers treat you like family.</p>
+---

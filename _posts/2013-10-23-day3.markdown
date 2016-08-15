@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 3
+date: 2013-10-21
+img: day3.png
+alt: 100 NY Moments
+client: Day 3 - showtime
+description: Day 3 - showtime
+
+---

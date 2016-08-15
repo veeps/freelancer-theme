@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 52
+date: 2013-10-21
+img: day52.png
+alt: 100 NY Moments
+client: Day 52 - I Do
+description: Day 52 - I Do<p>Kind of beautiful how, with a few minutes, you can influence someone's life on the spectrum of forever. @bripositive </p>
+---

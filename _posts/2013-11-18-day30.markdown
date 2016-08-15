@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 30
+date: 2013-10-21
+img: day30.gif
+alt: 100 NY Moments
+client: Day 30 - bday wish
+description: Day 30 - bday wish<p>3 alert notifications went off this morning on my computer, reminding me of my birthday. (I may look like a granny but I still have my memory together, Apple!) So I'm not crazy about birthdays, but I'm absolutely crazy about NY.</p><p>Today I have one wish.. For you to experience a NYmoment. There's something magical about seeing your surroundings transform. When the crowded train becomes your new Upworthy and the loud street vendor becomes your new life guru. It's everything and it's everywhere.</p><p>So today, put yourself in a situation to be surprised. Ride the train without looking at your phone. Walk on the streets listening to conversations instead of iTunes. Look your neighbors in the eyes and say, "good morning."</p><p>And when you experience that magic, come back and share it with me!</p>
+---

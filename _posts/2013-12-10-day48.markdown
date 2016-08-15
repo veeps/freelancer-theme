@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 48
+date: 2013-10-21
+img: day48.png
+alt: 100 NY Moments
+client: Day 48 - refugees welcome
+description: Day 48 - refugees welcome<p>The true newyorkvalues. </p>
+---

@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 27
+date: 2013-10-21
+img: day27.png
+alt: 100 NY Moments
+client: Day 27 - subway artist
+description: Day 27 - subway artist
+
+---

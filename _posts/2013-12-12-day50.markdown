@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 50
+date: 2013-10-21
+img: day50.png
+alt: 100 NY Moments
+client: Day 50 - social dancers
+description: Day 50 - social dancers<p>This man was well into his nineties and still schooling me in dance. I want to be him when I grow up! But what's that going to look like for a hip hop dancer? Will I be the ninety year old grandma whacking and nay-nay-ing at a throwback bar in 2078? Oh I can't wait</p>
+---

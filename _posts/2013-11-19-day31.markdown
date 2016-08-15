@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 31
+date: 2013-10-21
+img: day31.png
+alt: 100 NY Moments
+client: Day 31 - slurp slurp
+description: Day 31 - slurp slurp<p>A NY moment AND a puppy? You're spoiling me, universe.</p>
+---

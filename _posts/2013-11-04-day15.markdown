@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 15
+date: 2013-10-21
+img: day15.png
+alt: 100 NY Moments
+client: Day 15 - orphan plant
+description: Day 15 - orphan plant
+
+---

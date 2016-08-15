@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 24
+date: 2013-10-21
+img: day24.png
+alt: 100 NY Moments
+client: Day 24 - drop the price
+description: Day 24 - drop the price <p>(Now imagine if we can get Pfizer & GSK to do the same for the pneumonia vaccine, <a href="http://afairshot.org" target="_blank">A Fair Shot</a>)</p><p>Just one of many supporters who make our campaign possible by contributing their skills. Make a difference doing what you love.</p>
+
+---
