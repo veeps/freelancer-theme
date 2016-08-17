@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 59
+date: 2013-10-21
+img: day59.png
+alt: 100 NY Moments
+client: Day 59 - picture perfect
+description: Day 59 - picture perfect<p>There's something in this interaction that we don't see a lot of these days - trust. We're taught (for good reasons) not to trust strangers. Even though I'm doing this project, I can't remember the last time I accepted an act of kindness without first ruling out all possible ulterior motives. So it was pretty sweet to see this interaction and remember how innocent acts of kindness can be sometimes. </p>
+---
