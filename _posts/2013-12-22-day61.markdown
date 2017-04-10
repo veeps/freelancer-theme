@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 61
+date: 2013-10-21
+img: day61.png
+alt: 100 NY Moments
+client: Day 61 – stay cool
+description: Day 61 - stay cool<p>There are simple gestures of kindness, and then there are ridiculous ones like this. I can't help but smile imagining who came up with this idea and how they managed to pitch it to their whole team 😂. Bravo.</p>
+---
+
+
+
+
+

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 60
+date: 2013-10-21
+img: day60.png
+alt: 100 NY Moments
+client: Day 60 – on the house
+description: Day 60 - on the house<p>It's cool that this vendor cared more about her well-being than his sales. Probably because everyone in NY can relate to that feeling like you might die from this heat/humidity, and think anyone who tries to exercise outdoors in this weather must be pretty crazy.</p>
+---
+
+
+
