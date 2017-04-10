@@ -5,6 +5,5 @@ date: 2013-12-23
 img: day65.png
 alt: 100 NY Moments
 client: Day 65 – believers in humanity 3
-description: Day 65 - believers in humanity 3<p>Because it's not enough to just think critically about our art, we have to be aware of how our art can be used to displace, evict, and disempower communities that have been in neighborhoods long before we came. Whether it's our art in galleries or where we can afford to live as artists, let's be allies .. no, be better, be an advocate for building community, not displacing. 
-Get involved in this work with the Chinatown Art Brigade</p>
+description: Day 65 - believers in humanity 3<p>Because it's not enough to just think critically about our art, we have to be aware of how our art can be used to displace, evict, and disempower communities that have been in neighborhoods long before we came. Whether it's our art in galleries or where we can afford to live as artists, let's be allies .. no, be better, be an advocate for building community, not displacing. Get involved in this work with the Chinatown Art Brigade</p>
 ---
