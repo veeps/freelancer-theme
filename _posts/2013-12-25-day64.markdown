@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 64
+date: 2013-12-23
+img: day64.png
+alt: 100 NY Moments
+client: Day 64 – believers in humanity 2
+description: Day 64 - believers in humanity 2<p>He painted with his words. Each recount of a gas catastrophe, from Hurricane Sandy to East Village, added a thick, grim stroke to our future that was quickly becoming darker than the night hanging over us. After 2 hours of this, a lightness came through with the words he so confidently uttered about having hope.</p><p>I caught up with him recently, wondering if the new administration changed how he felt. His short answer? "It's only given me more hope because of how it is activating people." Now, because of Trump, more folks than ever before are taking ownership in taking care of our environment. "When people start showing up like this, things that were impossible become possible." Activists, man... daring to have hope in the face of extreme adversity. If you don't know one, become one. </p>Get involved with <a href="https://saneenergyproject.org/">Sane Energy Project!</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 67
+date: 2013-12-23
+img: day67.png
+alt: 100 NY Moments
+client: Day 67 – believers in humanity 5
+description: Day 67 - believers in humanity 5<p>Because sometimes you have to be a little bit crazy to believe you can take on the world's biggest pharma companies. It's been a crazy couple of weeks for us, and I wanted to appreciate the folks who make it all feel a bit more manageable.</p><p>There are so so so many people missing from this illustration, since I was only focusing on NYers. Notably, Juliette and @maryjgal AC team, the MSF webbies/digital folks, and all the MSFers behind the scenes who lead this campaign with us.... I appreciate you. Thank you.</p><p>We're stirring up something new this weekend. Stay tuned. #AskPharma <a href="http://afairshot.org" target="_blank">http://afairshot.org</a></p>
+---

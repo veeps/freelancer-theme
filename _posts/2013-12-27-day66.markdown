@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 66
+date: 2013-12-23
+img: day66.png
+alt: 100 NY Moments
+client: Day 66 – believers in humanity 4
+description: Day 66 - believers in humanity 4<p>Steve & Steve brought together the most insane group of artists this fall. For seven weeks, we had a space to reflect, grow, heal, and transform our dissatisfactions with the world into art & action. I am so grateful for that special time our worlds intersected.</p><p>A lot of people are seeking guidance on what to do about the state of affairs these days. Support, amplify, and take action with orgs that have been doing this work for years. And also consider, this is one thing C4AA inspires, that it might be your turn to lead and organize. They call it the "stepping off the curb" moment - when you are done waiting on the sidelines and choose to step into action. Every activist knows this moment for them. If you're feeling this is your time, get equipped with the tools needed for activism.</p><p>Here, watch their webinars series on "How to Win" <a href="https://artisticactivism.org/tag/c4aafundamentals" target="_blank">https://artisticactivism.org/tag/c4aafundamentals</a></p>
+---

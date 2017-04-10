@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 63
+date: 2013-12-23
+img: day63.png
+alt: 100 NY Moments
+client: Day 63 – believers in humanity 1
+description: Day 63 - believers in humanity 1<p>Continued series from Activists of NY... One of several faces from ACT UP who have been fighting this fight for decades and still showing up. A good reminder to us young activists to step up without burning out. We here to run a marathon.</p>
+---
